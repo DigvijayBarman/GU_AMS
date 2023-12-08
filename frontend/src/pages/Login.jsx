@@ -59,9 +59,9 @@ function Login() {
     <>
       <section className='heading'>
         <h1>
-          <FaSignInAlt /> Login
+           Department of Computer Science
         </h1>
-        <p>Login and start setting goals</p>
+        <p>Login</p>
       </section>
 
       <section className='form'>
